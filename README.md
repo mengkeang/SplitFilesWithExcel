@@ -99,7 +99,8 @@ Example:
 
 1. Open the VBA-enabled Excel workbook.
 2. Select a source file (`.csv` or tab-delimited text file).
-	* *I attached a **dummy file with 10 million rows** in the GitHub project.*
+	* *I attached a **dummy file with 1 million rows** in the GitHub project.*
+	* *The test dummy file with 10 million rows is too big for the GitHub repository.*
 3. Choose a splitting method:
    * By number of rows
    * By file size
